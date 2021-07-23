@@ -23,7 +23,7 @@ Developer :heart: from Argentina to :earth_americas:
 
 # Mis stats:
 
-<p align="left"> <img align="left" alt="MB-ARG" src="https://github-readme-stats.vercel.app/api?username=MB-ARG&show_icons=true&count_private=true" alt="MB-ARG" />
+<p align="center"> <img align="center" alt="MB-ARG" src="https://github-readme-stats.vercel.app/api?username=MB-ARG&show_icons=true&count_private=true" alt="MB-ARG" />
 <p align="center">
     <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB-ARG&layout=compact" />
 </p>
