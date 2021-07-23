@@ -1,21 +1,21 @@
 # MatiasBloisi
-<img src="https://github.com/MB-ARG/MatiasBloisi/blob/master/images/portada.png"/>
+<img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/portada.png"/>
 
 # Proyectos:  
 
 ## CompuMundo APP: 
 <p align="center">
-    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_1.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_2.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_3.png" width="30" height="30" align="center"/> 
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_1.png" width="2000" height="800" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_2.png" width="2000" height="600" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_3.png" width="2000" height="600" align="center"/> 
 </p>  
 #### Puedes ver el repositorio haciendo haciendo Click [Aqui]()  
 
 ## DOGS APP: 
 <p align="center">
-    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_1.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_2.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_3.png" width="30" height="30" align="center"/>    
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_1.png" width="2000" height="800" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_2.png" width="2000" height="800" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_3.png" width="2000" height="800" align="center"/>    
 </p>  
 #### Puedes ver el repositorio haciendo haciendo Click [Aqui]() 
 
