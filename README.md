@@ -5,17 +5,17 @@
 
 ## CompuMundo APP: 
 <p align="center">
-    <img src="https://github.com/MB-ARG/MatiasBloisi/tree/main/images/proyects/compumundo_1.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/tree/main/images/proyects/compumundo_2.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/tree/main/images/proyects/compumundo_3.png" width="30" height="30" align="center"/> 
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_1.png" width="30" height="30" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_2.png" width="30" height="30" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/compumundo_3.png" width="30" height="30" align="center"/> 
 </p>  
 #### Puedes ver el repositorio haciendo haciendo Click [Aqui]()  
 
 ## DOGS APP: 
 <p align="center">
-    <img src="https://github.com/MB-ARG/MatiasBloisi/tree/main/images/proyects/dogs_1.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/tree/main/images/proyects/dogs_2.png" width="30" height="30" align="center"/>
-    <img src="https://github.com/MB-ARG/MatiasBloisi/tree/main/images/proyects/dogs_3.png" width="30" height="30" align="center"/>    
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_1.png" width="30" height="30" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_2.png" width="30" height="30" align="center"/>
+    <img src="https://github.com/MB-ARG/MatiasBloisi/blob/main/images/proyects/dogs_3.png" width="30" height="30" align="center"/>    
 </p>  
 #### Puedes ver el repositorio haciendo haciendo Click [Aqui]() 
 
