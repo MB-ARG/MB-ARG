@@ -5,22 +5,6 @@ Developer :heart: from Argentina to :earth_americas:
 </h2>
 <img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
 
-# CONTACTO: 
-<p align="center">
-    <a href="https://github.com/MB-ARG/MatiasBloisi">
-      <img src='https://img.flaticon.com/icons/png/512/25/25231.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF' alt='github' height='40'>
-    </a>
-    <a href="https://www.linkedin.com/in/matiasbloisi">
-      <img src='https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF' alt='linkedin' height='40'>
-    </a>
-        <a href="https://api.whatsapp.com/send?phone=541138986430">
-      <img src='https://www.muycomputer.com/wp-content/uploads/2012/10/whatsapp.jpg' alt='linkedin' height='40'>
-    </a>
-</p>
-
-<img src="https://farmacosalud.com/wp-content/uploads/2015/10/separador-1.png" width="2000" height="80" align="center"/>
-
-
 # Mis stats:
 
 <p align="center"> <img align="center" alt="MB-ARG" src="https://github-readme-stats.vercel.app/api?username=MB-ARG&show_icons=true&count_private=true" alt="MB-ARG" />
