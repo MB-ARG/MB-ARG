@@ -1,10 +1,6 @@
 # Matias Bloisi
 
 <p align="center">
-  <img src="./images/proyects/Portada.png" alt="Matias Bloisi cover" width="100%" />
-</p>
-
-<p align="center">
   Frontend Engineer from Argentina building web and mobile products with React, Next.js and React Native.
 </p>
 
@@ -87,14 +83,3 @@ I focus on:
 - Full Stack Web Developer - Henry Bootcamp
 - Web Testing - Platzi
 - Languages: Spanish native, English B1, German A1.2
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MB-ARG&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MB-ARG&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
